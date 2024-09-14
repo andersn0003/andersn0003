@@ -1,4 +1,4 @@
-<h1 align="center">Thank you for visiting my account. I'm Passionate❤️‍🔥 about clean code and modern🤖 web technologies.👨‍💻</h1>
+<h1 align="center">Thank you for visiting my account. I'm Passionate❤️‍🔥 about clean code and modern🤖 blockchain technologies.👨‍💻</h1>
 <img src="./mygithub.png"/>
 <img src="./profile-3d-contrib/profile-green-animate.svg"/>
 <h3 align="left">Languages and Tools:</h3>
