@@ -1,4 +1,4 @@
-<h1 align="center">Thank you for visiting my account. I'm Passionate❤️‍🔥 about clean code and modern🤖 blockchain technologies.👨‍💻</h1>
+<h1 align="center">Nice to meet you. As a blockchain engineer I'm Passionate about clean code and modern blockchain technologies.</h1>
 <img src="./Anders Nielsen3.webp"/>
 <img src="./profile-3d-contrib/profile-gitblock.svg"/>
 <h3 align="left">Languages and Tools:</h3>
